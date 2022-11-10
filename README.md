@@ -9,7 +9,7 @@
 ## Installation
 
 ```bash
-$ git clone https://github.com/pgilad/spring-boot-webflux-swagger-starter.git
+$ git clone https://github.com/mnguyencntt/springboot-webflux-swagger.git
 ```
 
 ## Usage
@@ -23,6 +23,3 @@ generated from the `HelloController` web-flux mapping.
 
 ![swagger-ui](./images/swagger-ui.png)
 
-## License
-
-MIT © [Gilad Peleg](https://www.giladpeleg.com)
